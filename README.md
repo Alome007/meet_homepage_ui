@@ -1,6 +1,6 @@
 # [Meet](https://meet.google.com/) Homepage UI
 
-A new Flutter project.
+This is a Google Meet Homepage design written in Flutter(Dart). 
 
 ## Getting Started
 
@@ -14,5 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+## Disclaimer 
+I have created this project for learning  purpose only, it is not intended to be a Clone.
+Therefore, the  Logos and pictures used belongs to Google.
 ## Screenshot 
 <img src="https://github.com/Alome007/meet_homepage_ui/blob/main/screen_shot/flutter_web.PNG" alt="s2" width="auto" height="auto"/> &nbsp;&nbsp;
+
